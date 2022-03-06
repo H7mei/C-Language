@@ -1,6 +1,3 @@
-# local env files
-.env.local
 .env.development.local
-
-# materi
-../materi
+materi/
+*.pdf

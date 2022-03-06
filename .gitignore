@@ -1,6 +1,6 @@
 .env.development.local
-
-/materi
-materi/*.pdf
+.vscode/
+/basic/.vscode/
+pdf/
 
 *.pdf

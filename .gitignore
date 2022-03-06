@@ -1,3 +1,6 @@
 .env.development.local
-materi/
+
+/materi
+materi/*.pdf
+
 *.pdf

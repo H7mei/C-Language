@@ -1,15 +1,17 @@
+## 📦 Daftar Isi
+
 1.  = perkenalan
 2.  = reverse menggunakan malloc()
 3.  = contoh sederhana dalam megunakan variabel
-4.  = contoh2 variabel dalam C 
-5.  = Simbol dalam bahasa C 
-6.  = sifat matematika 
+4.  = contoh2 variabel dalam C
+5.  = Simbol dalam bahasa C
+6.  = sifat matematika
 7.  = tentang const int
-8.  = tentang user input pada C 
-9.  = Kalkulator sederhana 
+8.  = tentang user input pada C
+9.  = Kalkulator sederhana
 10. = permainan sederhana
 11. = Array untuk menyimpan banyak data
-12. = tentang Function pada C 
+12. = tentang Function pada C
 13. = Return Statment
 14. = If Statment
 15. = Building Kalkulator Yang lebih baik
@@ -51,3 +53,5 @@
 51. = board
 52. = Hackerank jam
 53. = Median Code Algorithms
+
+happy codding :)

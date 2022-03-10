@@ -1,4 +1,4 @@
-## 📦 Daftar Isi
+# 📦 Daftar Isi
 
 1. : C "if else"
 2. : A "if else"
@@ -42,14 +42,3 @@
 
 <!-- < = kurang dari
 > = ini lebih dari -->
-
-## C compile
-
-```bash
-# compile
-gcc <nama file> -o <path> -lm
-
-# run
-./<path>
-
-```

@@ -175,3 +175,14 @@ sama seperti jika fungsi fseek, bedanya fungsi ini tidak ada error indicator
 ## tmpfile
 
 membuat dan membuka file sementara, dan akan terhapus jika fungsi fclose() dipanggil
+
+# C compile
+
+```bash
+# compile
+gcc <nama file> -o <path> -lm
+
+# run
+./<path>
+
+```

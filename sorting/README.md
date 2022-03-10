@@ -1,9 +1,9 @@
 # 📦 Daftar Isi
 
-1. Metode Penyisipan (Insertion Sort)
-2. Metode Seleksi (Selection Sort)
-3. Metode Gelembung (bubble Sort)
-4. Metode Urut Cepat (Quick Sort)
+1. [Metode Penyisipan (Insertion Sort)](Insertion-Sort)
+2. [Metode Seleksi (Selection Sort)](Selection-Sort)
+3. [Metode Gelembung (bubble Sort)](bubble-Sort)
+4. [Metode Urut Cepat (Quick Sort)](Quick-Sort)
 
 # Sorting (Pengurutan)
 
@@ -22,7 +22,7 @@ dalam distribusi normal setiap algoritma kelebihan untuk menangani kasus kasus t
 
 biasanya rata rata algoritma sorting udah punya build in sorting di bahasa masing masing, dan selain yang di table ada beberapa algoritma sorting lainya, dibawah ini adalah contoh algortma Sorting;.
 
-## 1. Insertion Sort
+## Insertion Sort ##
 
 Metode penyisipan langgsung (stright insertion) adalah metode yang mengambil sebuah data sisip pada pada data yang di urutkan dan mengeser data yang lebih besar dari data sisip agar data sisip di tempatkan di tempat yang benar.
 
@@ -50,7 +50,7 @@ while((data_sisip < tabInt[j]) && (j >= 0)) (ascending)
 while((data_sisip > tabInt[j]) && (j >= 0)) (descending)
 ```
 
-## 2. Selection Sort
+## Selection Sort ##
 
 Metode seleksi adalah metode pengurutan yang mencari nilai terkecil atau terbesar bergantung pada pengurutan menaik atau menurun kemudian di tempatkan pada tempat paling depan, index paling depan nya terus bertambah.
 
@@ -80,7 +80,7 @@ if(tabInt[minIndex] > tabInt[j]) (ascending)
 if(tabInt[minIndex] < tabInt[j]) (descending)
 ```
 
-## 3. bubble Sort
+## bubble Sort ##
 
 Metode Gelembung adalah metode pengurutan yang menukarkan dua element secara terus menerus sampai pengurutan selesai.
 
@@ -111,7 +111,7 @@ if (tabInt[i] > tabInt[i + 1]) (ascending)
 if (tabInt[i] < tabInt[i + 1]) (descending)
 ```
 
-## 4. Quick Sort
+## Quick Sort ##
 
 Metode quick sort adalah metode pengurutan yang menjadikan sebuah table data yang akan diurutkan menjadi dua buah sub bagian yang ditelusuri dari kiri dan dari kanan.
 

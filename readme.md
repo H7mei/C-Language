@@ -6,7 +6,7 @@
 
 - (basic code 🔧)
 - (cla learning 🎓)
-- (sorting Algoritm ⚙️)
+- (sorting Algoritm ⚙️)[https://github.com/H7mei/C-Language/blob/main/sorting/README.md]
 - (Keyword 📖)
 
 # C compile

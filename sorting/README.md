@@ -1,9 +1,9 @@
 # 📦 Daftar Isi
 
-1. [Metode Penyisipan (Insertion Sort)](Insertion-Sort)
-2. [Metode Seleksi (Selection Sort)](Selection-Sort)
-3. [Metode Gelembung (bubble Sort)](bubble-Sort)
-4. [Metode Urut Cepat (Quick Sort)](Quick-Sort)
+1. [Metode Penyisipan (Insertion Sort)](README.md/#insertion-Sort)
+2. [Metode Seleksi (Selection Sort)](README.md/#Selection Sort)
+3. [Metode Gelembung (bubble Sort)](README.md/#bubble Sort)
+4. [Metode Urut Cepat (Quick Sort)](README.md/#Quick Sort)
 
 # Sorting (Pengurutan)
 

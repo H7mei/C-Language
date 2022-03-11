@@ -11,7 +11,7 @@ Pengurutan dapat dilakukan dengan urutan urut ke atas[1, 2, 3] (ascending) atau 
 
 Dalam memilih algoritma sorting atau pengurutan yang digunakan ada baiknya melihat sisi efisiensi penggunaan memori, sehingga didapatkan pengurutan dengan pemakaian sumber daya lebih sedikit.
 
-dalam distribusi normal setiap algoritma kelebihan untuk menangani kasus kasus tertentu, berikut table berbandingan efisiensi algoritma dengan notasi big oh;
+dalam distribusi normal setiap algoritma memiliki kelebihan untuk menangani kasus kasus tertentu, berikut table berbandingan efisiensi algoritma dengan notasi big oh;
 
 |     | Algoritma      | Skenario terburuk | Skenario Rata-rata | skenario kasus terbaik |
 | --- | -------------- | ----------------- | ------------------ | ---------------------- |

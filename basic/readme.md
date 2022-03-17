@@ -1,14 +1,14 @@
 # 📦 Daftar Isi
 
-1.  = perkenalan
-2.  = reverse menggunakan malloc()
-3.  = contoh sederhana dalam megunakan variabel
-4.  = contoh2 variabel dalam C
-5.  = Simbol dalam bahasa C
-6.  = sifat matematika
-7.  = tentang const int
-8.  = tentang user input pada C
-9.  = Kalkulator sederhana
+1. = perkenalan
+2. = reverse menggunakan malloc()
+3. = contoh sederhana dalam megunakan variabel
+4. = contoh2 variabel dalam C
+5. = Simbol dalam bahasa C
+6. = sifat matematika
+7. = tentang const int
+8. = input [^\n], malloc, realloc, free()
+9. = Mengahapus array
 10. = permainan sederhana
 11. = Array untuk menyimpan banyak data
 12. = tentang Function pada C

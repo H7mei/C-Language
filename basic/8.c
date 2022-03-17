@@ -1,27 +1,25 @@
-# include <stdio.h>
-# include <stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
-int main ()
+int main()
 {
-    char joma[20];
-    printf("my name is : ");
-    scanf("%s", joma);
-    printf("thanks for coming %s\n", joma);
-
+    char *s;
+    s = malloc(1024 * sizeof(char));
+    scanf("%[^\n]", s);
+    s = realloc(s, strlen(s) + 1);
+    int len = strlen(s);
+    for (int i = 0; i < len; i++)
+    {
+        if (s[i] == ' ')
+        {
+            printf("\n");
+        }
+        else
+        {
+            printf("%c", s[i]);
+        }
+    }
+    free(s);
     return 0;
 }
-
-/*
-ini tentang menambahkan user input
-pada C dengan scanf("%s") <=== ini hanya mengambil kata awal pada kaliimat
-
-fgets(name) ini yang lain cara lain
-fgets(<sabi>, <banyaknya>, stdin) <==== ini semuanya
-int main(){
-    char a[100];
-    fgets(a , 100 , stdin);
-    printf("%s", a); 
-    return 0;
-}
-jangan lupa pake &
-*/

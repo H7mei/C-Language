@@ -10,7 +10,7 @@
 8. = input [^\n], malloc, realloc, free()
 9. = Mengahapus array
 10. = permainan sederhana
-11. = Array untuk menyimpan banyak data
+11. = Prosedur (Pass by Value & Pass by reverence)
 12. = tentang Function pada C
 13. = Return Statment
 14. = If Statment

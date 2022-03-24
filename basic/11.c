@@ -1,17 +1,26 @@
-#include <stdio.h>
-#include <stdlib.h>
+# include <stdio.h>
 
-int main()
-{
-    int number[] = {1, 0, 23, 90, 12, 12, 21};
-    /*  0   1  2  3   4   5   6   angka yang di lihat komputer*/
-    printf("%d\n", number[2]);
-
-    char rumah[9] = "Indonesia";
-    printf("%s\n", rumah);
-    return 0;
+// Pass By Value
+void Dua(int num){
+  printf("%d\n", num);
 }
 
-/*
-Array (menyimpan banyak data) mengunakan []
-*/
+// pass by reference
+void kaliDua(int *num){
+  *num = *num * 2;
+}
+
+int main(){
+  // Pass By Value
+  Dua(4);
+
+  // Pass By reference (pointernya)
+  int angka = 4;
+  kaliDua(&angka);
+  printf("%d\n", angka);
+  return 0;
+}
+
+/* 
+perbedaanya di nilainya pas by reference mengunakan pointer
+ */

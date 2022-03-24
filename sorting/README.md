@@ -1,10 +1,3 @@
-# 📦 Daftar Isi
-
-1. [Metode Penyisipan (Insertion Sort)](#insertion-Sort)
-2. [Metode Seleksi (Selection Sort)](#Selection-Sort)
-3. [Metode Gelembung (bubble Sort)](#bubble-Sort)
-4. [Metode Urut Cepat (Quick Sort)](#Quick-Sort)
-
 # Sorting (Pengurutan)
 
 Pengurutan dapat dilakukan dengan urutan urut ke atas[1, 2, 3] (ascending) atau dengan urutan menurun[3, 2, 1] (descending)
@@ -21,6 +14,13 @@ dalam distribusi normal setiap algoritma memiliki kelebihan untuk menangani kasu
 | 4.  | Quick Sort     | O(N^2)            | O(N^2 log N)       | O(N^2 log N)           |
 
 biasanya rata rata algoritma sorting udah punya build in sorting di bahasa masing masing, dan selain yang di table ada beberapa algoritma sorting lainya, dibawah ini adalah contoh algortma Sorting;.
+
+## 📦 Daftar Isi
+
+1. [Metode Penyisipan (Insertion Sort)](#insertion-Sort)
+2. [Metode Seleksi (Selection Sort)](#Selection-Sort)
+3. [Metode Gelembung (bubble Sort)](#bubble-Sort)
+4. [Metode Urut Cepat (Quick Sort)](#Quick-Sort)
 
 ## Insertion Sort
 

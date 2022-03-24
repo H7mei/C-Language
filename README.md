@@ -5,15 +5,16 @@
 # isi
 
 - [basic code 🔧](https://github.com/H7mei/C-Language/tree/main/basic)
-- [cla learning 🎓](https://github.com/H7mei/C-Language/tree/main/cla)
-- [sorting Algoritm ⚙️](https://github.com/H7mei/C-Language/tree/main/sorting)
+- [CLA Learning 🎓](https://github.com/H7mei/C-Language/tree/main/cla)
+- [Sorting Algoritm ⚙️](https://github.com/H7mei/C-Language/tree/main/sorting)
+- [Searhing Algoritm 🔍](https://github.com/H7mei/C-Language/tree/main/searching)
 - [Keyword 📖](https://github.com/H7mei/C-Language/tree/main/keyword)
 
 # C compile
 
 ```bash
 # compile
-gcc <nama file> -o <path> -lm
+gcc <nama file> -o <path>
 
 # run
 ./<path>

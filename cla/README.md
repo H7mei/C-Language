@@ -6,7 +6,7 @@
 4. : C "Perhatikan dalam loppingnya lagi"
 5. : B "tentang pointer inget dia mengakses variabel dari memorinya
    jadi perubahan yang terjadi didalam memorinya, kalau mengakses
-   pointer variabel nya memori"
+   pointer variabel nya memori, dia mengambil alamat memorinya"
 6. : B "strlen berhenti di saat '\0' ini akhirnya dari array"
 7. : B "strlen = menghitung panjang string, strcpy(t, <isinya>) = copy string
    ditimbun, strcat(t, <isinya>) = tambah di belakangnya"

@@ -40,7 +40,7 @@
 38. = 2d Array(catur)
 39. = kasus Array 2(2D)
 40. = fungsi malloc() & free()
-41. = bubble sort program(improveds)
+41. = Array of struct
 42. = mengalokasikan Memory dengan ukuran yang di minta.
 43. = table perkalian
 44. = contoh variabel global dan local
@@ -53,5 +53,6 @@
 51. = board
 52. = Hackerank jam
 53. = Median Code Algorithms
+54. = Struct With typedef
 
 happy codding :)

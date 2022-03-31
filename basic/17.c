@@ -2,51 +2,70 @@
 # include <stdlib.h>
 # include <string.h>
 
-struct student{
-    char name [50];
-    char grade [5];
-    int age;
-    double gpa;
-
-};
 /* sebagai kontainer untuk meyimpan data */
+struct student{
+  // Menggunakan Pointer
+  char *name;
+  char grade [5];
+  int age;
+  double gpa;
+  // Nested Struct
+  struct alamat{
+    char rumah[20];
+    char kota[20];
+  } emp;
+    
+// cara Pertama penamaan Struct
+} p1;
+
+// struct just data type
+void display(struct student s){
+  printf("\n");
+  printf("Nama Siswa : %s\n", s.name);
+  printf("Umur       : %d tahun\n", s.age);
+  printf("nilai      : %s\n", s.grade);
+  printf("gpa        : %f\n", s.gpa);
+  printf("rumah      : %s\n", s.emp.rumah);
+  printf("kota       : %s\n", s.emp.kota);
+}
+
+void poinStudent(struct student *as){
+  printf("\n");
+  printf("Nama Siswa : %s\n", as->name);
+  printf("Umur       : %d tahun\n", as->age);
+}
 
 int main()
 {
-    struct student student1;
-    {
-        student1.age = 18;
-        student1.gpa = 7.5;
-        strcpy( student1.name , "John Connor");
-        strcpy( student1.grade,  "A");
-    };
-        struct student student2;
-    {
-        student2.age = 19;
-        student2.gpa = 9.5;
-        strcpy( student2.name , "Korman Jum'at");
-        strcpy( student2.grade,  "A");
-    };
-    printf("\n");
-    printf("Nama Siswa : %s\n", student1.name);
-    printf("Umur       : %d tahun\n", student1.age);
-    printf("nilai      : %s\n", student1.grade);
-    printf("gpa        : %f\n", student1.gpa);
-    printf("\n");
-    printf("Nama Siswa : %s\n", student2.name);
-    printf("Umur       : %d tahun\n", student2.age);
-    printf("nilai      : %s\n", student2.grade);
-    printf("gpa        : %f\n", student2.gpa);
+  // deklarasi variabel struck ke dua
+  struct student poin;
+  
+  char nama[20] = "John Connor"; 
+  // mengisi data stuct
+  struct student student1 = {"Jonh Connor", "A", 17, 32.1, "sweet home", "jakarta"};
 
 
+  p1.age = 10;
+  p1.name = nama;
+  strcpy(p1.emp.rumah, "lOAN");
 
+  printf("\n");
+  printf("%d\n", p1.age);
+  printf("Pointer :%s\n", p1.name);
+  printf("Nested  : %s\n", p1.emp.rumah);
 
+  display(student1);
 
-    return 0;
+  poin.name = "ini pointer";
+  poin.age = 10;
+
+  poinStudent(&poin);
+
+  return 0;
 }
-
 
 /*
 data structur pada C
 tipe data
 */
+

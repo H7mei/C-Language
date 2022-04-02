@@ -4,11 +4,11 @@
 
 # isi
 
-- [basic code 🔧](https://github.com/H7mei/C-Language/tree/main/basic)
-- [CLA Learning 🎓](https://github.com/H7mei/C-Language/tree/main/cla)
-- [Sorting Algoritm ⚙️](https://github.com/H7mei/C-Language/tree/main/sorting)
-- [Searhing Algoritm 🔍](https://github.com/H7mei/C-Language/tree/main/searching)
-- [Keyword 📖](https://github.com/H7mei/C-Language/tree/main/keyword/README.md)
+- [basic code 🔧](/basic)
+- [CLA Learning 🎓](/cla)
+- [Sorting Algoritm ⚙️](/sorting)
+- [Searhing Algoritm 🔍](/searching)
+- [Keyword 📖](/keyword/README.md)
 
 # C compile
 

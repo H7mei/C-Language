@@ -1,6 +1,6 @@
 # 📦 Daftar Isi
 
-1. = perkenalan
+1. [perkenalan](./1.c)
 2. = reverse menggunakan malloc()
 3. = contoh sederhana dalam megunakan variabel
 4. = contoh2 variabel dalam C

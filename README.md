@@ -4,10 +4,10 @@
 
 # isi
 
-- [basic code 🔧](./basic)
-- [CLA Learning 🎓](./cla)
-- [Sorting Algoritm ⚙️](./sorting)
-- [Searhing Algoritm 🔍](./searching)
+- [basic code 🔧](./basic/)
+- [CLA Learning 🎓](./cla/)
+- [Sorting Algoritm ⚙️](./sorting/)
+- [Searhing Algoritm 🔍](./searching/)
 - [Keyword 📖](/keyword/README.md)
 
 # C compile

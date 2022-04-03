@@ -1,8 +1,8 @@
 # 📦 Daftar Isi
 
 1. [perkenalan](./1.c)
-2. = reverse menggunakan malloc()
-3. = contoh sederhana dalam megunakan variabel
+2. [reverse menggunakan malloc()](./2.c)
+3. contoh sederhana dalam megunakan variabel
 4. = contoh2 variabel dalam C
 5. = Simbol dalam bahasa C
 6. = sifat matematika

@@ -12,6 +12,16 @@
 - [Searhing Algoritm 🔍](/searching/README.md)
 - [Keyword 📖](/keyword/README.md)
 
+## About C
+
+name : c<br/>
+since : 1972<br/>
+made by : [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)<br/>
+purpose made : Programming computer, systems and networks.<br/>
+programming paradigm : [Imperative](https://en.wikipedia.org/wiki/Imperative_programming)<br/>
+official website : [ISO C Working Group](http://www.open-std.org/jtc1/sc22/wg14/)<br/>
+
+
 ## C compile
 
 ```bash

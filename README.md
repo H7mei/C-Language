@@ -12,14 +12,14 @@
 - [Searhing Algoritm 🔍](/searching/README.md)
 - [Keyword 📖](/keyword/README.md)
 
-## About C
+## Tentang C
 
-name : c<br/>
-since : 1972<br/>
-made by : [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)<br/>
-purpose made : Programming computer, systems and networks.<br/>
-programming paradigm : [Imperative](https://en.wikipedia.org/wiki/Imperative_programming)<br/>
-official website : [ISO C Working Group](http://www.open-std.org/jtc1/sc22/wg14/)<br/>
+nama : c<br/>
+sejak : 1972<br/>
+dibuat oleh : [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)<br/>
+tujuan pembuatan : Pemrograman komputer, sistem dan jaringan<br/>
+paradigma pemrograman : [Imperatif](https://id.wikipedia.org/wiki/Pemrograman_imperatif)<br/>
+situs web resmi : [ISO C Working Group](http://www.open-std.org/jtc1/sc22/wg14/)<br/>
 
 
 ## C compile
@@ -33,10 +33,10 @@ gcc <nama file> -o <path>
 
 ```
 
-## Contributing
+## Berkontribusi
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Lisensi
 [MIT](/LICENSE)

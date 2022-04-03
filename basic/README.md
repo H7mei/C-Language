@@ -2,57 +2,57 @@
 
 1. [perkenalan](./1.c)
 2. [reverse menggunakan malloc()](./2.c)
-3. contoh sederhana dalam megunakan variabel
-4. = contoh2 variabel dalam C
-5. = Simbol dalam bahasa C
-6. = sifat matematika
-7. = tentang const int
-8. = input [^\n], malloc, realloc, free()
-9. = Mengahapus array
-10. = permainan sederhana
-11. = Prosedur (Pass by Value & Pass by reverence)
-12. = tentang Function pada C
-13. = Return Statment
-14. = If Statment
-15. = Building Kalkulator Yang lebih baik
-16. = Switch Statment
-17. = Structs (kontainer data)
-18. = While Loops
-19. = Building a Guessing Game
-20. = For Loops (cara lain While)
-21. = 2D Array & Nested Loops
-22. = contoh Pengulangan
-23. = contoh Pengulangan2
-24. = contoh program if sederhana
-25. = Memory Addresses
-26. = Pointers
-27. = Dereferencing Pointers
-28. = Writing Files
-29. = Reading Files
-30. = kasus Switch 1
-31. = bilangan Fibonacci
-32. = Array alpabet
-33. = Median Algorithms (with qsort)
-34. = kasus Array 1
-35. = fungsi sprintf
-36. = Mencari karakter di string
-37. = palindrome (balik kata)
-38. = 2d Array(catur)
-39. = kasus Array 2(2D)
-40. = fungsi malloc() & free()
-41. = Array of struct
-42. = mengalokasikan Memory dengan ukuran yang di minta.
-43. = table perkalian
-44. = contoh variabel global dan local
-45. = aritmatika fungsi variabel terpisah
-46. = pemanggilan fungsi dengan paramerter
-47. = pemanggilan fungsi dengan paramerter 2
-48. = pemanggilan fungsi dengan paramerter 3(dengan Array)
-49. = palindrome (balik kata) 2
-50. = Pointers untuk Mengakses Array
-51. = board
-52. = Hackerank jam
-53. = Median Code Algorithms
-54. = Struct With typedef
+3. [contoh sederhana dalam megunakan variabel](./3.c)
+4. [contoh2 variabel dalam C](./4.c)
+5. [Simbol dalam bahasa C](./5.c)
+6. [sifat matematika](./6.c)
+7. [tentang const int](./7.c)
+8. [input string, malloc, realloc, free()](./8.c)
+9. [Mengahapus array](./9)
+10. [permainan sederhana](./10.c)
+11. [Prosedur (Pass by Value & Pass by reverence)](./11.c)
+12. [tentang Function pada C](./12.c)
+13. [Return Statment](./13.c)
+14. [If Statment](./14.c)
+15. [Building Kalkulator Yang lebih baik](./15.c)
+16. [Switch Statment](./16.c)
+17. [Structs (kontainer data)](./17.c)
+18. [While Loops](./18.c)
+19. [Building a Guessing Game](./19.c)
+20. [For Loops (cara lain While)](./20.c)
+21. [2D Array & Nested Loops](./21.c)
+22. [contoh Pengulangan](./22.c)
+23. [contoh Pengulangan2](./23.c)
+24. [contoh program if sederhana](./24.c)
+25. [Memory Addresses](./25.c)
+26. [Pointers](./26.c)
+27. [Dereferencing Pointers](./27.c)
+28. [Writing Files](./28.c)
+29. [Reading Files](./29.c)
+30. [kasus Switch 1](./30.c)
+31. [bilangan Fibonacci](./31.c)
+32. [Array alpabet](./32.c)
+33. [Median Algorithms (with qsort)](./33.c)
+34. [kasus Array 1](./34.c)
+35. [fungsi sprintf](./35.c)
+36. [Mencari karakter di string](./36.c)
+37. [palindrome (balik kata)](./37.c)
+38. [2d Array(catur)](./38.c)
+39. [kasus Array 2(2D)](./39.c)
+40. [fungsi malloc() & free()](./40.c)
+41. [Array of struct](./41.c)
+42. [mengalokasikan Memory dengan ukuran yang di minta.](./42.c)
+43. [table perkalian](./43.c)
+44. [contoh variabel global dan local](./44.c)
+45. [aritmatika fungsi variabel terpisah](./45.c)
+46. [pemanggilan fungsi dengan paramerter](./46.c)
+47. [pemanggilan fungsi dengan paramerter  2](./47.c)
+48. [pemanggilan fungsi dengan paramerter 3(dengan Array)](./48.c)
+49. [palindrome (balik kata) 2](./49.c)
+50. [Pointers untuk Mengakses Array](./50.c)
+51. [board](./51.c)
+52. [Hackerank jam](./52.c)
+53. [Median Code Algorithms](./53.c)
+54. [Struct With typedef](./54.c)
 
 happy codding :)

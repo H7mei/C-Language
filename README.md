@@ -22,7 +22,6 @@ tujuan pembuatan : Pemrograman komputer, sistem dan jaringan<br/>
 paradigma pemrograman : [Imperatif](https://id.wikipedia.org/wiki/Pemrograman_imperatif)<br/>
 situs web resmi : [ISO C Working Group](http://www.open-std.org/jtc1/sc22/wg14/)<br/>
 
-
 ## C compile
 
 ```bash

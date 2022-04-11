@@ -24,7 +24,7 @@ biasanya rata rata algoritma sorting udah punya build in sorting di bahasa masin
 
 ## Insertion Sort
 
-Metode penyisipan langgsung (stright insertion) adalah metode yang mengambil sebuah data sisip pada pada data yang di urutkan dan mengeser data yang lebih besar dari data sisip agar data sisip di tempatkan di tempat yang benar.
+Metode penyisipan langsung (stright insertion) adalah metode yang mengambil sebuah data sisip pada data yang di urutkan dan mengeser data yang lebih besar dari data sisip agar data sisip di tempatkan di tempat yang benar.
 
 Dicari Lalu Di insert Ke depan, membandingkan setiap element yang di lewatinya apabila menemukan data yang kurang dari data_sisip dia akan mengeser sampai tempat yang tepat lalu indexnya baru pindah.
 

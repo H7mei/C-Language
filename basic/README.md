@@ -54,5 +54,6 @@
 52. [Hackerank jam](./52.c)
 53. [Median Code Algorithms](./53.c)
 54. [Struct With typedef](./54.c)
+55. [ADT Stack build with Array](./55.c)
 
 happy codding :)

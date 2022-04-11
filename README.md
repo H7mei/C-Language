@@ -10,6 +10,7 @@
 - [CLA Learning 🎓](/cla/README.md)
 - [Sorting Algoritm ⚙️](/sorting/README.md)
 - [Searhing Algoritm 🔍](/searching/README.md)
+- [Struktur Data](/struktur-data/README.md)
 - [Keyword 📖](/keyword/README.md)
 
 ## Tentang C

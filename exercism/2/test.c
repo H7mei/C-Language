@@ -1,4 +1,4 @@
-// #include "armstrong_numbers.h"
+#include "armstrong_numbers.h"
 #include <stdio.h>
 
 int numberOfDigits(int n){
@@ -31,8 +31,8 @@ int is_armstrong_number(int n){
 }
 
 int main(){
-  // tenry operation
-  printf("%s", is_armstrong_number(10) ? "true\n" : "false\n");
+  // tenary operation
+  printf("%s\n", is_armstrong_number(10) ? "true" : "false");
   return 0;
 }
 

@@ -48,4 +48,15 @@ Contoh jalur network di sebuah LAN
 
 ## Linked List
 
-terhubung dengan integer
+Linked list merupakan tipe data linear yang terhubung dengan alamat memori data selanjutnya. setiap data node menyimpan data dan alamat data selanjutnya: macam - macam Linked List :
+
+- Singly Linked List
+- Doubly Linked List
+- Singly Linked List Circular (melingkar)
+- Doubly Linked List Circular (melingkar)
+
+Penerapan Linked List
+
+- Dapat di gunakan Untuk struktur data stack dan queue
+- fungsi undo
+- Hash tables, Graphs

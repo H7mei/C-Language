@@ -1,5 +1,4 @@
 #include "resistor_color.h"
-#include <stdio.h>
 
 int color_code(resistor_band_t color){
     return color;

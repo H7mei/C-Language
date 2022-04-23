@@ -1,5 +1,4 @@
 #include "armstrong_numbers.h"
-#include <stdio.h>
 
 int numberOfDigits(int n){
     int c = 0;

@@ -50,10 +50,11 @@
 48. [pemanggilan fungsi dengan paramerter 3(dengan Array)](./48.c)
 49. [palindrome (balik kata) 2](./49.c)
 50. [Pointers untuk Mengakses Array](./50.c)
-51. [board](./51.c)
+51. [Full Linked Single Linked List](./51.c)
 52. [Hackerank jam](./52.c)
 53. [Median Code Algorithms](./53.c)
 54. [Struct With typedef](./54.c)
 55. [ADT Stack build with Array](./55.c)
+56. [ADT Queue build with Array](./56.c)
 
 happy codding :)

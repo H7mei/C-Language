@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) 
+int main(void)
 {
 	char days[7][10] = {"minggu", "senin", "selasa", "rabu", "kamis", "jumat", "sabtu"};
 	int day;

@@ -28,9 +28,13 @@ int main()
   insert_node(&head, 6);
   insert_node(&head, 5);
 
+  printf("=====Single Linked List====\n");
+  printf("data awal : ");
   print_list(head);
+  printf("reversed  : ");
   reverse_list(&head);
   print_list(head);
+  printf("sorted    : ");
   sorting_list(&head);
   print_list(head);
 

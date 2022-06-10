@@ -10,6 +10,10 @@ Tempat latihan logika
 4. [Isogram](#isogram)
 5. [Hamming](#hamming)
 6. [Grains](#grains)
+7. [Difference Of Squares](#difference-of-squares)
+8. [Grade School](#grade-school)
+9. [Binary](#binary)
+10. [Binary Search](#binary-search)
 
 ## [Hello world](./1/)
 
@@ -60,3 +64,29 @@ Ada 64 kotak di papan catur (di mana kotak 1 memiliki satu butir, kotak 2 memili
 - berapa banyak biji-bijian pada kotak yang diberikan, dan
 - the total number of grains on the chessboard
 
+## [Difference Of Squares](./7/)
+
+selisih kuadrat jumlah dan jumlah kuadrat dari N bilangan asli pertama.
+
+(1 + 2 + ... + 10)² = 55² = 3025
+1² + 2² + ... + 10² = 385
+
+hasil = 3025 - 385 = 2640
+
+## [Grade School](./8/)
+
+Used Simple object, membuat daftar nama siswa dan nilainya.
+
+Lalu megurutkan semua list berdasarkan nilainya. (langsung di urutkan saat data siswanya di masukkan)
+
+## [Binary](./9/)
+
+Convert Binary(basis 2) Menjadi Desimal(basis 10)
+
+101 => 1*2^2 + 0*2^1 + 1*2^0 => 1*4 + 0*2 + 1*1 => 4 + 1 => 5 Basis 10
+
+## [Binary Search](./10/)
+
+Searching mengunakan binary search kalo ngak ketemu akan mengambalikan not found.
+
+Pencarian biner membagi dua jumlah item untuk diperiksa dengan setiap iterasi.
